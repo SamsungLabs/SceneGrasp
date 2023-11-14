@@ -1,0 +1,26 @@
+numpy
+matplotlib
+open3d
+scipy
+--extra-index-url https://download.pytorch.org/whl/cu114 --trusted-host download.pytorch.org # PyTorch version needs to match CUDA version
+torch
+torchvision
+opencv-contrib-python==4.6.0.66
+
+
+# centersnap
+shortuuid
+boto3
+zstandard
+colour
+pytorch_lightning==0.7.5
+fvcore
+pygifsicle
+wandb
+imageio
+trimesh[easy]
+scikit-image
+
+# scenegrasp
+pyrender
+dominate

@@ -1,0 +1,9 @@
+--max_steps=380000
+--model_file=models/panoptic_net.py
+--model_name=res_fpn
+--train_path=""
+--val_path=""
+--wandb_name=SceneGraspNet_Real_Test
+--scale_ae_path=checkpoints/scale_ae.pth
+--checkpoint=checkpoints/scene_grasp.ckpt
+--choose_bd_sign=True
