@@ -1,0 +1,9 @@
+.vscode/
+pyvenv/
+**/*.pyc
+data/
+logs/
+**/wandb
+**/pyvenv*
+**/results_**
+**/temp_*/
