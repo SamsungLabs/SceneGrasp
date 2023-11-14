@@ -11,7 +11,10 @@
 [Samsung AI Center, New York](https://research.samsung.com/aicenter_ny)
 
 
-[<img src="https://img.youtube.com/vi/R38v8y3GXn8/maxresdefault.jpg" width="320" height="180"/>](https://youtu.be/R38v8y3GXn8)[<img src="https://img.youtube.com/vi/5YwnzMr6vq8/maxresdefault.jpg" width="320" height="180"/>](https://youtu.be/5YwnzMr6vq8)[<img src="https://img.youtube.com/vi/wFdet1xfunA/maxresdefault.jpg" width="320" height="180"/>](https://youtu.be/wFdet1xfunA) 
+<p float="left" align="center">
+  <a href="https://youtu.be/R38v8y3GXn8"><img src="https://img.youtube.com/vi/R38v8y3GXn8/0.jpg" alt="IMAGE ALT TEXT" width="320" height="240"></a>
+  <a href="https://youtu.be/wFdet1xfunA"><img src="https://img.youtube.com/vi/wFdet1xfunA/0.jpg" alt="IMAGE ALT TEXT" width="320" height="240"></a>
+</p>
 
 <img src="outreach/sceneGraspNet-architecture.png" alt="SceneGrasp Architecture" width="960"/>
 
