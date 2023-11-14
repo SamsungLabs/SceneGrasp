@@ -43,7 +43,8 @@ Optionally, to enable html gif visualizations, install
 [gifsicle](https://www.lcdf.org/gifsicle/).
 
 ## Inference Demo
-Make sure that all the lfs files are pulled correctly by running `git lfs pull`.
+Download [pre-trained checkpoints](https://github.com/SamsungLabs/SceneGrasp/releases/download/v1.0/checkpoints.zip)
+and unzip them at the project root.
 Run demo using following script:
 ```python
 python scripts/demo.py
